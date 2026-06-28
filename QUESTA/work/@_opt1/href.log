@@ -1,0 +1,11 @@
+BEGIN 1:top_module:fast:work
+    alu_result :  1:tb_top_module:fast:work
+    fifo_out_b :  1:tb_top_module:fast:work
+    fifo_out_op :  1:tb_top_module:fast:work
+    start_display_sig :  1:tb_top_module:fast:work
+    fifo_empty :  1:tb_top_module:fast:work
+    display_done_sig :  1:tb_top_module:fast:work
+    btn_send_pulse :  1:tb_top_module:fast:work
+    fifo_out_a :  1:tb_top_module:fast:work
+    btn_save_pulse :  1:tb_top_module:fast:work
+END 

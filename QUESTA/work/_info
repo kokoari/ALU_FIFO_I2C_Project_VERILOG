@@ -1,0 +1,291 @@
+m255
+K4
+z2
+Z0 !s12c _opt1
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+!s12c _opt
+R1
+!s11f vlog 2025.2 2025.05, May 31 2025
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/verilog/ALU_PROJECT/verification
+T_opt1
+!i145 1
+!i144 0
+!s110 1782661456
+V7XinnD25QAgRO8cUELLh33
+04 13 4 work tb_top_module fast 0
+=1-085bd6f41b54-6a41414e-330-2518
+R1
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U12 
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0 defaultOptions 1107585188
+n@_opt1
+OL;O;2025.2;82
+valu_param
+2C:/verilog/ALU_PROJECT/final/alu_param.v
+Z2 !s110 1782661436
+!i10b 1
+!s100 >iN=EI0?e4B9n_AgCF]]h1
+IOUgi=ldlmFnTB_:`ffJ0b2
+Z3 dC:/verilog/ALU_PROJECT/final/QUESTA
+w1782653335
+8C:/verilog/ALU_PROJECT/final/alu_param.v
+FC:/verilog/ALU_PROJECT/final/alu_param.v
+!i122 119
+L0 7 21
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2025.2;82
+r1
+!s85 0
+31
+Z6 !s108 1782661436.000000
+!s107 C:/verilog/ALU_PROJECT/final/alu_param.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/verilog/ALU_PROJECT/final/alu_param.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0 defaultOptions 1085333592
+vbin_to_ascii
+2C:/verilog/ALU_PROJECT/final/bin_to_ascii.v
+R2
+!i10b 1
+!s100 0okLDa76`9fYdUNEnHdlW3
+I34NG8QIclI`;[O1>^Ab]S2
+R3
+w1782659950
+8C:/verilog/ALU_PROJECT/final/bin_to_ascii.v
+FC:/verilog/ALU_PROJECT/final/bin_to_ascii.v
+!i122 120
+L0 6 50
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/verilog/ALU_PROJECT/final/bin_to_ascii.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/verilog/ALU_PROJECT/final/bin_to_ascii.v|
+!i113 0
+R7
+R8
+vbutton_debouncer
+2C:/verilog/ALU_PROJECT/final/button_debouncer.v
+Z9 !s110 1782661437
+!i10b 1
+!s100 @Of;ni2YaOZKaYBj_`S=a2
+I`IQk6U78_bCdSI<U8_Ied3
+R3
+w1782655780
+8C:/verilog/ALU_PROJECT/final/button_debouncer.v
+FC:/verilog/ALU_PROJECT/final/button_debouncer.v
+!i122 121
+L0 6 45
+R4
+R5
+r1
+!s85 0
+31
+Z10 !s108 1782661437.000000
+!s107 C:/verilog/ALU_PROJECT/final/button_debouncer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/verilog/ALU_PROJECT/final/button_debouncer.v|
+!i113 0
+R7
+R8
+vclk_divider
+2C:/verilog/ALU_PROJECT/final/clk_divider.v
+R9
+!i10b 1
+!s100 FGZ1:=1e0M0A3;in:TP=N1
+ICT6>Q@R1Xhi3SlB^X89aZ0
+R3
+w1782661378
+8C:/verilog/ALU_PROJECT/final/clk_divider.v
+FC:/verilog/ALU_PROJECT/final/clk_divider.v
+!i122 122
+L0 6 24
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/verilog/ALU_PROJECT/final/clk_divider.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/verilog/ALU_PROJECT/final/clk_divider.v|
+!i113 0
+R7
+R8
+vcontrol_fsm
+2C:/verilog/ALU_PROJECT/final/control_fsm.v
+Z11 !s110 1782661438
+!i10b 1
+!s100 5ji3B9RU<_H;d^Dz;5UZR0
+ISobdeg>3^Jmj:dAFS_[g12
+R3
+w1782653383
+8C:/verilog/ALU_PROJECT/final/control_fsm.v
+FC:/verilog/ALU_PROJECT/final/control_fsm.v
+!i122 123
+L0 6 74
+R4
+R5
+r1
+!s85 0
+31
+Z12 !s108 1782661438.000000
+!s107 C:/verilog/ALU_PROJECT/final/control_fsm.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/verilog/ALU_PROJECT/final/control_fsm.v|
+!i113 0
+R7
+R8
+vfifo_sync_param
+2C:/verilog/ALU_PROJECT/final/fifo_sync_param.v
+R11
+!i10b 1
+!s100 E66MgS_do>@C<T_`I2Y]:0
+Ig3B_dL<<Nd>bd`@ZANLe=0
+R3
+w1782653200
+8C:/verilog/ALU_PROJECT/final/fifo_sync_param.v
+FC:/verilog/ALU_PROJECT/final/fifo_sync_param.v
+!i122 124
+L0 6 46
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/verilog/ALU_PROJECT/final/fifo_sync_param.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/verilog/ALU_PROJECT/final/fifo_sync_param.v|
+!i113 0
+R7
+R8
+vi2c_slave_model
+2C:/verilog/ALU_PROJECT/final/I2c_slave_module.v
+!s110 1782657648
+!i10b 1
+!s100 nGzl0e_H=0T>0_OL`WOMN3
+If5CJ:51FUc?H>J6XP1zUW2
+R3
+w1782657643
+8C:/verilog/ALU_PROJECT/final/I2c_slave_module.v
+FC:/verilog/ALU_PROJECT/final/I2c_slave_module.v
+!i122 71
+L0 70 285
+R4
+R5
+r1
+!s85 0
+31
+!s108 1782657648.000000
+!s107 C:/verilog/ALU_PROJECT/final/I2c_slave_module.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/verilog/ALU_PROJECT/final/I2c_slave_module.v|
+!i113 0
+R7
+R8
+vlcd_i2c_controller
+2C:/verilog/ALU_PROJECT/final/lcd_i2c_controller.v
+Z13 !s110 1782661439
+!i10b 1
+!s100 ^<mPR6[>ZNZd4ibSa8>o:0
+IQeb>>gE6eaNNY:]16fgc62
+R3
+w1782659986
+8C:/verilog/ALU_PROJECT/final/lcd_i2c_controller.v
+FC:/verilog/ALU_PROJECT/final/lcd_i2c_controller.v
+!i122 125
+L0 6 147
+R4
+R5
+r1
+!s85 0
+31
+Z14 !s108 1782661439.000000
+!s107 C:/verilog/ALU_PROJECT/final/lcd_i2c_controller.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/verilog/ALU_PROJECT/final/lcd_i2c_controller.v|
+!i113 0
+R7
+R8
+vtb_top_module
+2C:/verilog/ALU_PROJECT/final/top_module_tb.v
+!s110 1782661440
+!i10b 1
+!s100 kgSm5bB5;OlE;eJS6^bbj2
+ISk_KZncSEXlz4TBEPFB3j2
+R3
+w1782661423
+8C:/verilog/ALU_PROJECT/final/top_module_tb.v
+FC:/verilog/ALU_PROJECT/final/top_module_tb.v
+!i122 127
+L0 8 183
+R4
+R5
+r1
+!s85 0
+31
+!s108 1782661440.000000
+!s107 C:/verilog/ALU_PROJECT/final/top_module_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/verilog/ALU_PROJECT/final/top_module_tb.v|
+!i113 0
+R7
+R8
+vtop_module
+2C:/verilog/ALU_PROJECT/final/top_module.v
+R13
+!i10b 1
+!s100 Q[IKzGJ_I1m>?g6eVV=oM0
+IFhTNi:g@Sl`gMUz?J<HzX3
+R3
+w1782659999
+8C:/verilog/ALU_PROJECT/final/top_module.v
+FC:/verilog/ALU_PROJECT/final/top_module.v
+!i122 126
+L0 4 113
+R4
+R5
+r1
+!s85 0
+31
+R14
+!s107 C:/verilog/ALU_PROJECT/final/top_module.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/verilog/ALU_PROJECT/final/top_module.v|
+!i113 0
+R7
+R8

@@ -1,0 +1,49 @@
+C:/verilog/ALU_PROJECT/final/top_module_tb.v {1 {vlog -work work -vopt -stats=none C:/verilog/ALU_PROJECT/final/top_module_tb.v
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'C:/verilog/ALU_PROJECT/final/QUESTA/PROJECT.mpf' is used as the ini file.
+-- Compiling module tb_top_module
+
+Top level modules:
+	tb_top_module
+
+} {} {}} C:/verilog/ALU_PROJECT/final/button_debouncer.v {1 {vlog -work work -vopt -stats=none C:/verilog/ALU_PROJECT/final/button_debouncer.v
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'C:/verilog/ALU_PROJECT/final/QUESTA/PROJECT.mpf' is used as the ini file.
+-- Compiling module button_debouncer
+
+Top level modules:
+	button_debouncer
+
+} {} {}} C:/verilog/ALU_PROJECT/final/alu_param.v {1 {vlog -work work -vopt -stats=none C:/verilog/ALU_PROJECT/final/alu_param.v
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'C:/verilog/ALU_PROJECT/final/QUESTA/PROJECT.mpf' is used as the ini file.
+-- Compiling module alu_param
+
+Top level modules:
+	alu_param
+
+} {} {}} C:/verilog/ALU_PROJECT/final/bin_to_ascii.v {1 {vlog -work work -vopt -stats=none C:/verilog/ALU_PROJECT/final/bin_to_ascii.v
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'C:/verilog/ALU_PROJECT/final/QUESTA/PROJECT.mpf' is used as the ini file.
+-- Compiling module bin_to_ascii
+
+Top level modules:
+	bin_to_ascii
+
+} {} {}} C:/verilog/ALU_PROJECT/final/lcd_i2c_controller.v {1 {vlog -work work -vopt -stats=none C:/verilog/ALU_PROJECT/final/lcd_i2c_controller.v
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'C:/verilog/ALU_PROJECT/final/QUESTA/PROJECT.mpf' is used as the ini file.
+-- Compiling module lcd_i2c_controller
+
+Top level modules:
+	lcd_i2c_controller
+
+} {} {}} C:/verilog/ALU_PROJECT/final/fifo_sync_param.v {1 {vlog -work work -vopt -stats=none C:/verilog/ALU_PROJECT/final/fifo_sync_param.v
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'C:/verilog/ALU_PROJECT/final/QUESTA/PROJECT.mpf' is used as the ini file.
+-- Compiling module fifo_sync_param
+
+Top level modules:
+	fifo_sync_param
+
+} {} {}}
