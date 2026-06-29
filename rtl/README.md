@@ -97,7 +97,7 @@ Self-checking testbench featuring:
 | HDL | Verilog (IEEE 1364-2001) |
 | Simulation | Siemens / Mentor QuestaSim |
 | Synthesis | Intel Quartus Prime |
-| FPGA Target | Intel MAX 10 (DE10-Lite) |
+| FPGA Target | Intel Cyclone V |
 
 ---
 
